@@ -1,0 +1,4 @@
+modmap:
+  - name: CapsLock to Less/Greater
+    remap:
+      CapsLock: KEY_102ND
